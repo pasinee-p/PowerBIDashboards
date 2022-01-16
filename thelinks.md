@@ -14,6 +14,6 @@ Here are the links to my Power BI dashboards for each project.
 ---------------------------------------------
 
 3. Financial Statements Data Visualization
-    ** Numbers shown are not real **
+    ** Data and numbers shown are all fictitious **
 
     https://app.powerbi.com/view?r=eyJrIjoiOTRmODI5NWUtZjcyZS00Njg2LWI2MWYtY2NiZDBkMTc0YzI2IiwidCI6IjM3YjIxYWMzLWNjMDMtNDhhNC1iY2MyLTFjZWZjMTcwNzIwOCIsImMiOjEwfQ%3D%3D
