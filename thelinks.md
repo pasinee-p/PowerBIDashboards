@@ -1,4 +1,4 @@
-# PowerBIDashboards
+# PowerBI_Dashboards
 Here are the links to my Power BI dashboards for each project.
 
 1. Covid 19 Data Exploration
